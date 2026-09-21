@@ -1,0 +1,3844 @@
+{
+    "recipes": [
+        {
+            "id": "khachapuri-imeruli",
+            "title": "Khachapuri Imeruli",
+            "originalName": "ხაჭაპური იმერული",
+            "description": "A round, closed cheese bread — the everyday khachapuri of Georgia. Simpler than the Adjarian boat, and eaten at any hour.",
+            "category": "Khachapuri & Breads",
+            "kosherType": "Dairy",
+            "image": "images/Khachapuri_Imeruli.jpg",
+            "prepTime": 120,
+            "cookTime": 20,
+            "servings": 4,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "warm milk",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "yogurt (matsoni)",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dried yeast",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "soft butter",
+                    "quantity": "60",
+                    "unit": "g"
+                },
+                {
+                    "name": "sulguni cheese, grated",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "imeruli or mozzarella",
+                    "quantity": "200",
+                    "unit": "g"
+                },
+                {
+                    "name": "egg",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "butter for brushing",
+                    "quantity": "30",
+                    "unit": "g"
+                }
+            ],
+            "instructions": [
+                "Mix the yeast, sugar and warm milk and leave 10 minutes until it foams.",
+                "Add the flour, yogurt, salt and soft butter and knead 10 minutes to a smooth, soft dough. Prove an hour and a half until doubled.",
+                "Mix both grated cheeses with the egg. If the cheese is very salty, rinse it in cold water first.",
+                "Divide the dough into four balls and flatten each into a 20cm round.",
+                "Place a ball of cheese in the centre, gather the edges up like a purse, seal well and turn it over. Flatten gently with your palm.",
+                "Cook on a dry hot pan 6–7 minutes a side, or bake at 230°C for about 15 minutes. Brush with butter straight out. **A dairy recipe.**"
+            ],
+            "tags": [
+                "khachapuri",
+                "cheese",
+                "dairy",
+                "bread",
+                "everyday"
+            ]
+        },
+        {
+            "id": "khachapuri-adjaruli",
+            "title": "Khachapuri Adjaruli — Cheese Boat",
+            "originalName": "ხაჭაპური აჭარული",
+            "description": "The famous boat from Batumi, with a yolk and butter stirred into the hot cheese at the table.",
+            "category": "Khachapuri & Breads",
+            "kosherType": "Dairy",
+            "image": "images/Khachapuri_Adjaruli.jpg",
+            "prepTime": 120,
+            "cookTime": 20,
+            "servings": 4,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "warm milk",
+                    "quantity": "1.25",
+                    "unit": "cups"
+                },
+                {
+                    "name": "dried yeast",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sulguni cheese, grated",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "mozzarella",
+                    "quantity": "200",
+                    "unit": "g"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "butter",
+                    "quantity": "60",
+                    "unit": "g"
+                }
+            ],
+            "instructions": [
+                "Make the yeast dough as for imeruli and prove an hour and a half.",
+                "Divide into four, roll each into an oval and fold the two long sides inward to form walls.",
+                "Twist and pinch both ends — that is what gives the boat its shape.",
+                "Fill the hollow with the grated cheese mixture.",
+                "Bake at 240°C for about 14 minutes until the dough is golden and the cheese bubbles.",
+                "Take out, make a well in the cheese, drop in a yolk and a cube of butter. **Serve at once** — the diner stirs them through. **Dairy.**"
+            ],
+            "tags": [
+                "khachapuri",
+                "adjara",
+                "dairy",
+                "egg",
+                "famous"
+            ]
+        },
+        {
+            "id": "khachapuri-megruli",
+            "title": "Khachapuri Megruli",
+            "originalName": "ხაჭაპური მეგრული",
+            "description": "Like the imeruli, but with a second layer of cheese on top that melts to a golden crust. The richer version.",
+            "category": "Khachapuri & Breads",
+            "kosherType": "Dairy",
+            "image": "images/Khachapuri_Megruli.jpg",
+            "prepTime": 120,
+            "cookTime": 20,
+            "servings": 4,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "warm milk",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "yogurt",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dried yeast",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "soft butter",
+                    "quantity": "60",
+                    "unit": "g"
+                },
+                {
+                    "name": "sulguni cheese, grated",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "egg",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "egg yolk for brushing",
+                    "quantity": "1",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Make and prove the soft yeast dough as for imeruli.",
+                "Split the cheese: two thirds for the filling, one third for the top.",
+                "Mix the filling cheese with the whole egg.",
+                "Fill and seal as for imeruli, turn over and flatten into a round.",
+                "Brush the top with yolk and scatter over the reserved third of the cheese.",
+                "Bake at 230°C for about 16 minutes until the cheese on top is golden and bubbling. **Dairy.**"
+            ],
+            "tags": [
+                "khachapuri",
+                "megrelia",
+                "dairy",
+                "cheese",
+                "rich"
+            ]
+        },
+        {
+            "id": "lobiani",
+            "title": "Lobiani — Bean Bread",
+            "originalName": "ლობიანი",
+            "description": "The khachapuri dough with a mashed bean filling of onion and coriander. Parve — which is why it goes with meat.",
+            "category": "Khachapuri & Breads",
+            "kosherType": "Parve",
+            "image": "images/Lobiani_Bean_Bread.jpg",
+            "prepTime": 110,
+            "cookTime": 25,
+            "servings": 5,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "warm water",
+                    "quantity": "1.25",
+                    "unit": "cups"
+                },
+                {
+                    "name": "dried yeast",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dried kidney beans, soaked overnight",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "onions, finely chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "blue fenugreek (utskho suneli)",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground coriander",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "black pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Make a yeast dough with water and oil — no milk or butter, so the bread stays parve — and prove an hour and a half.",
+                "Cook the soaked beans in water for 60 minutes until very soft. Drain, keeping a little of the cooking water.",
+                "Fry the onion in oil until deeply golden — that is where the filling gets its flavour.",
+                "Mash the beans with a fork together with the onion, blue fenugreek, ground coriander and pepper. It should be thick; add cooking water only if too dry. Cool completely.",
+                "Fold in the fresh coriander. Fill and seal the dough as for khachapuri, then flatten into a round.",
+                "Bake at 230°C for 20–25 minutes until golden. **Parve** — it can be served beside meat."
+            ],
+            "tags": [
+                "lobiani",
+                "beans",
+                "parve",
+                "bread",
+                "fasting"
+            ]
+        },
+        {
+            "id": "kubdari",
+            "title": "Kubdari — Svan Meat Bread",
+            "originalName": "კუბდარი",
+            "description": "A mountain bread from Svaneti filled with knife-cut meat, never minced. Seasoned with Svan salt and blue fenugreek.",
+            "category": "Khachapuri & Breads",
+            "kosherType": "Meat",
+            "image": "images/Kubdari_Meat_Bread.jpg",
+            "prepTime": 120,
+            "cookTime": 30,
+            "servings": 5,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "warm water",
+                    "quantity": "1.25",
+                    "unit": "cups"
+                },
+                {
+                    "name": "dried yeast",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "beef or lamb",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, very finely chopped",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "blue fenugreek",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground coriander",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground caraway",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "hot red pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Make a yeast dough with water and oil and prove an hour and a half.",
+                "Cut the meat by knife into tiny 3–4mm cubes. **Do not mince it** — the texture is what separates kubdari from any other meat pie.",
+                "Mix the meat with the onion, garlic and all the spices. Chill 30 minutes.",
+                "Flatten a ball of dough, place filling in the centre and gather the edges like a purse. Seal and turn over.",
+                "Flatten gently to a 2cm round and pierce a small hole in the centre — the steam has to escape or the bread bursts.",
+                "Bake at 220°C for about 30 minutes. **Meat** — no butter and no cheese here."
+            ],
+            "tags": [
+                "kubdari",
+                "svaneti",
+                "meat",
+                "mountain",
+                "knife-cut"
+            ]
+        },
+        {
+            "id": "khachapuri-penovani",
+            "title": "Khachapuri Penovani — Puff Pastry",
+            "originalName": "ხაჭაპური ფენოვანი",
+            "description": "Crisp puff pastry triangles filled with cheese. The kiosk khachapuri, eaten walking.",
+            "category": "Khachapuri & Breads",
+            "kosherType": "Dairy",
+            "image": "images/Khachapuri_Penovani.jpg",
+            "prepTime": 30,
+            "cookTime": 25,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "butter puff pastry",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "sulguni cheese, grated",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "mozzarella",
+                    "quantity": "150",
+                    "unit": "g"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "soft butter",
+                    "quantity": "30",
+                    "unit": "g"
+                },
+                {
+                    "name": "egg yolk for brushing",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "sesame seeds",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Thaw the puff pastry in the fridge and roll lightly into 12cm squares.",
+                "Mix the cheeses with one egg and the soft butter. If the cheese is salty, rinse it first.",
+                "Put a spoonful of cheese in the centre of each square.",
+                "Fold into a triangle and seal the edges with a fork — otherwise the cheese leaks in the oven.",
+                "Brush with beaten yolk and scatter over sesame seeds.",
+                "Bake at 200°C for about 22 minutes until puffed and golden. **Dairy.**"
+            ],
+            "tags": [
+                "khachapuri",
+                "puff pastry",
+                "dairy",
+                "quick",
+                "street"
+            ]
+        },
+        {
+            "id": "shotis-puri",
+            "title": "Shotis Puri — Tone Bread",
+            "originalName": "შოთის პური",
+            "description": "A boat-shaped bread slapped onto the wall of a blazing clay oven. Flour, water, salt and yeast, and nothing else.",
+            "category": "Khachapuri & Breads",
+            "kosherType": "Parve",
+            "image": "images/Shotis_Puri.jpg",
+            "prepTime": 110,
+            "cookTime": 15,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "bread flour",
+                    "quantity": "5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "warm water",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "dried yeast",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "cornmeal for dusting",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Mix the yeast, sugar and warm water and wait 10 minutes.",
+                "Add the flour and salt and knead 12 minutes to a strong, elastic dough. **No oil and no milk** — the bread is parve.",
+                "Prove an hour and a half, then divide into six and prove again 20 minutes.",
+                "Stretch each ball by hand into an elongated boat with pointed ends, and make a hole in the centre.",
+                "Heat the oven to 280°C with a stone inside — for at least half an hour.",
+                "Bake 10–12 minutes until blistered with brown spots. Cool on a rack. **Parve.**"
+            ],
+            "tags": [
+                "bread",
+                "shoti",
+                "tone",
+                "parve",
+                "staple"
+            ]
+        },
+        {
+            "id": "mchadi",
+            "title": "Mchadi — Corn Bread",
+            "originalName": "მჭადი",
+            "description": "Flat corn cakes of cornmeal and water, nothing more. Eaten with lobio or with cheese, and gluten-free.",
+            "category": "Khachapuri & Breads",
+            "kosherType": "Parve",
+            "image": "images/Mchadi_Corn_Bread.jpg",
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 5,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "coarse cornmeal",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "hot water",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil for frying",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Mix the cornmeal and salt, adding the hot water gradually while stirring.",
+                "Knead 5 minutes to a damp paste that holds its shape. If it crumbles, add a little more hot water.",
+                "Divide into ten and form balls with wet hands.",
+                "Flatten each into a 1cm round, smoothing the edges so they do not crack.",
+                "Fry in a pan with a little oil, 8 minutes a side over medium-low heat.",
+                "Serve hot. **Parve** — unless you serve it with cheese, which makes the plate dairy."
+            ],
+            "tags": [
+                "mchadi",
+                "corn",
+                "parve",
+                "gluten-free",
+                "simple"
+            ]
+        },
+        {
+            "id": "khachapuri-guruli",
+            "title": "Khachapuri Guruli — Cheese and Egg Crescent",
+            "originalName": "ხაჭაპური გურული",
+            "description": "A closed crescent filled with cheese and hard-boiled egg. Baked in Georgia on Christmas Eve, and eaten all year.",
+            "category": "Khachapuri & Breads",
+            "kosherType": "Dairy",
+            "image": "images/Khachapuri_Guruli.jpg",
+            "prepTime": 120,
+            "cookTime": 25,
+            "servings": 4,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "warm milk",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dried yeast",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "soft butter",
+                    "quantity": "80",
+                    "unit": "g"
+                },
+                {
+                    "name": "sulguni cheese, grated",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "hard-boiled eggs, sliced",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "egg for the filling",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "egg yolk for brushing",
+                    "quantity": "1",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Make and prove a soft yeast dough with milk and butter.",
+                "Hard-boil 4 eggs for 9 minutes, cool in cold water, peel and slice.",
+                "Mix the grated cheese with one fresh egg.",
+                "Flatten a ball of dough into a round, spread cheese over half of it and lay the egg slices on top.",
+                "Fold into a crescent, seal the edge firmly by pinching and fold it over again.",
+                "Brush with yolk and bake at 220°C for about 25 minutes. **Dairy.**"
+            ],
+            "tags": [
+                "khachapuri",
+                "guria",
+                "egg",
+                "dairy",
+                "festive"
+            ]
+        },
+        {
+            "id": "kartofiliani",
+            "title": "Kartofiliani — Potato Bread",
+            "originalName": "კარტოფილიანი",
+            "description": "A mashed potato filling with plenty of fried onion and dried mint. Parve, and it comes to the table when there is meat.",
+            "category": "Khachapuri & Breads",
+            "kosherType": "Parve",
+            "image": "images/Kartofiliani_Potato_Bread.jpg",
+            "prepTime": 110,
+            "cookTime": 25,
+            "servings": 5,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "warm water",
+                    "quantity": "1.25",
+                    "unit": "cups"
+                },
+                {
+                    "name": "dried yeast",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "potatoes",
+                    "quantity": "900",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, thinly sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "dried mint",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "oil for frying the onion",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "black pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Make a yeast dough with water and oil — no milk, so the bread stays parve — and prove an hour and a half.",
+                "Boil the potatoes in their skins for 25 minutes, peel and mash coarsely.",
+                "Fry the onion in oil over low heat for 20 minutes until deeply brown and sweet.",
+                "Mix the mash with the onion, dried mint, salt and pepper. Cool completely.",
+                "Fill and seal as for khachapuri, then flatten to a 2cm round.",
+                "Bake at 220°C for about 25 minutes. **Parve.**"
+            ],
+            "tags": [
+                "potato",
+                "bread",
+                "parve",
+                "onion",
+                "comfort"
+            ]
+        },
+        {
+            "id": "khinkali-kalakuri",
+            "title": "Khinkali Kalakuri",
+            "originalName": "ხინკალი ქალაქური",
+            "description": "Meat dumplings with soup inside, pleated nineteen times. Hold the knot, bite, drink the broth — and leave the knot on the plate.",
+            "category": "Khinkali & Meats",
+            "kosherType": "Meat",
+            "image": "images/Khinkali_Kalakuri.jpg",
+            "prepTime": 75,
+            "cookTime": 15,
+            "servings": 5,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "cold water",
+                    "quantity": "1.75",
+                    "unit": "cups"
+                },
+                {
+                    "name": "salt for the dough",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "coarsely ground beef",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "coarsely ground lamb",
+                    "quantity": "300",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, grated",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cold water for the filling",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground caraway",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "hot red pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt and black pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Knead the flour, cold water and salt for 12 minutes to a firm, smooth dough. Wrap and rest an hour — dough that is too soft will tear and the broth escapes.",
+                "Mix both meats with the grated onion, garlic, spices and coriander. **No pork** — the traditional mix is pork and beef; this is beef and lamb only.",
+                "Add the cold water gradually, stirring, until the filling is loose and almost pourable. **That is where the soup comes from** — a dry filling gives a dry khinkali.",
+                "Roll 12cm rounds, thin at the edges and thicker in the middle.",
+                "Place a spoon of filling in the centre and pleat around the rim, fold after fold — aim for nineteen or more — then twist the top into a tight knot.",
+                "Boil in salted water 12–14 minutes, until they float and swell. Serve with cracked black pepper. **Meat.**"
+            ],
+            "tags": [
+                "khinkali",
+                "dumplings",
+                "meat",
+                "broth",
+                "classic"
+            ]
+        },
+        {
+            "id": "khinkali-mtiuluri",
+            "title": "Khinkali Mtiuluri — Mountain Khinkali",
+            "originalName": "ხინკალი მთიულური",
+            "description": "The mountain version: knife-cut meat instead of minced, and no coriander. Coarser, with a cleaner meat flavour.",
+            "category": "Khinkali & Meats",
+            "kosherType": "Meat",
+            "image": "images/Khinkali_Mtiuluri.jpg",
+            "prepTime": 80,
+            "cookTime": 15,
+            "servings": 5,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "cold water",
+                    "quantity": "1.75",
+                    "unit": "cups"
+                },
+                {
+                    "name": "salt for the dough",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "lamb shoulder",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "fatty beef",
+                    "quantity": "300",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, very finely chopped",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "ground caraway",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "hot red pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "cold water for the filling",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and black pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Make the firm dough as for kalakuri and rest it an hour.",
+                "Cut the meat by knife into 3mm cubes. Slow work, and it is the entire difference.",
+                "Mix with the onion, caraway, hot pepper, salt and black pepper. **No coriander** — the mountains do not use it here.",
+                "Add cold water gradually until the filling is loose.",
+                "Roll, fill and pleat with a tight knot, as for kalakuri.",
+                "Boil 14–15 minutes — cut meat needs longer than minced. **Meat.**"
+            ],
+            "tags": [
+                "khinkali",
+                "mountain",
+                "knife-cut",
+                "meat",
+                "traditional"
+            ]
+        },
+        {
+            "id": "mtsvadi",
+            "title": "Mtsvadi — Georgian Skewer",
+            "originalName": "მწვადი",
+            "description": "Meat cubes over vine coals in an onion and pomegranate marinade. In Georgia it is grilled outdoors, in every season.",
+            "category": "Khinkali & Meats",
+            "kosherType": "Meat",
+            "image": "images/Mtsvadi_Georgian_Kebab.jpg",
+            "prepTime": 250,
+            "cookTime": 20,
+            "servings": 5,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "lamb shoulder or beef neck",
+                    "quantity": "1.2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sparkling mineral water",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "blue fenugreek",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground coriander",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "cracked black pepper",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                },
+                {
+                    "name": "red onion and pomegranate to serve",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "tkemali sauce to serve",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Cut the meat into 4cm cubes, leaving the fat on — it is what protects the meat over the coals.",
+                "Mix with the sliced onion, pomegranate molasses, spices and sparkling water. **No salt** — salting early dries it out.",
+                "Crush the onion into the meat with your hands so it releases its juice.",
+                "Marinate at least 4 hours in the fridge, overnight if you can.",
+                "Thread tightly onto skewers and grill over hot coals 15–18 minutes, turning every 3 minutes.",
+                "Salt at the end, and serve on fresh red onion with pomegranate seeds and tkemali. **Meat.**"
+            ],
+            "tags": [
+                "mtsvadi",
+                "grill",
+                "pomegranate",
+                "meat",
+                "outdoor"
+            ]
+        },
+        {
+            "id": "chakhokhbili",
+            "title": "Chakhokhbili — Chicken with Tomato and Herbs",
+            "originalName": "ჩახოხბილი",
+            "description": "Chicken stewed in tomato with not a drop of water, and a bundle of herbs added only at the end. The name comes from the word for pheasant.",
+            "category": "Khinkali & Meats",
+            "kosherType": "Meat",
+            "image": "images/Chakhokhbili.jpg",
+            "prepTime": 25,
+            "cookTime": 75,
+            "servings": 5,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "whole chicken, jointed",
+                    "quantity": "1.5",
+                    "unit": "kg"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "ripe tomatoes, peeled",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "fresh basil, chopped",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "blue fenugreek",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground coriander",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "hot red pepper",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Sear the chicken pieces in a dry pot with no oil, until the skin browns and renders its fat. Remove.",
+                "Fry the onion in the rendered fat for 12 minutes until deeply golden.",
+                "Add the peeled, chopped tomatoes. **No water at all** — the tomatoes and chicken give all the liquid there is.",
+                "Return the chicken, cover and cook 45 minutes over low heat.",
+                "Uncover and cook a further 15 minutes until the sauce reduces and thickens.",
+                "Turn off the heat and only then add the garlic, all the herbs and the spices. Cover for 5 minutes. **Meat.**"
+            ],
+            "tags": [
+                "chakhokhbili",
+                "chicken",
+                "tomato",
+                "meat",
+                "herbs"
+            ]
+        },
+        {
+            "id": "satsivi",
+            "title": "Satsivi — Chicken in Cold Walnut Sauce",
+            "originalName": "საცივი",
+            "description": "Poached chicken in a rich walnut sauce, served **cold**. The great feast dish of Georgia — and the name means \"cold\".",
+            "category": "Khinkali & Meats",
+            "kosherType": "Meat",
+            "image": "images/Satsivi_Walnut_Chicken.jpg",
+            "prepTime": 40,
+            "cookTime": 110,
+            "servings": 8,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "whole chicken",
+                    "quantity": "2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "walnuts",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, finely chopped",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "blue fenugreek",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground coriander",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground cloves",
+                    "quantity": "1/4",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1/4",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "turmeric or imeretian saffron",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "kosher white wine vinegar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "hot red pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Poach the whole chicken in 2 litres of water for 60 minutes until tender. **Keep the broth** — it is the base of the sauce.",
+                "Lift out the chicken, joint it and roast at 200°C for about 20 minutes until golden.",
+                "Grind the walnuts twice, in a mill or processor — the sauce must be completely smooth.",
+                "Fry the onion in the rendered chicken fat until soft, add the garlic and all the spices and stir for a minute.",
+                "Add the ground walnuts and thin gradually with the hot broth, stirring constantly, to the consistency of cream. Cook 25 minutes over very low heat — **do not boil.**",
+                "Add the vinegar and salt, pour over the chicken and chill **overnight**. Serve cold. **Meat** — there is no dairy here."
+            ],
+            "tags": [
+                "satsivi",
+                "walnut",
+                "cold",
+                "meat",
+                "feast"
+            ]
+        },
+        {
+            "id": "chakapuli",
+            "title": "Chakapuli — Lamb with Green Plums",
+            "originalName": "ჩაქაფული",
+            "description": "Lamb in a sea of tarragon, sour green plums and white wine. The spring dish, and in Georgia it means the season has started.",
+            "category": "Khinkali & Meats",
+            "kosherType": "Meat",
+            "image": "images/Chakapuli_Lamb_Stew.jpg",
+            "prepTime": 25,
+            "cookTime": 80,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "lamb shoulder, cubed",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "fresh tarragon",
+                    "quantity": "3",
+                    "unit": "bunches"
+                },
+                {
+                    "name": "sour green plums",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "spring onions, chopped",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "dry kosher white wine",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "hot green peppers",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Lay the lamb cubes in the base of a heavy pot. **Do not sear them** — chakapuli cooks pale, not brown.",
+                "Scatter over the spring onion, half the tarragon and half the coriander.",
+                "Add the whole green plums, the garlic and the hot peppers.",
+                "Pour in the white wine and add a little water to partly cover. Bring to a gentle simmer.",
+                "Cook covered 70 minutes over low heat, stirring little — the lamb should stay in pieces.",
+                "Add the remaining herbs, season and turn off the heat. Rest 10 minutes before serving. **Meat.**"
+            ],
+            "tags": [
+                "chakapuli",
+                "lamb",
+                "tarragon",
+                "meat",
+                "spring"
+            ]
+        },
+        {
+            "id": "ostri",
+            "title": "Ostri — Spicy Beef Stew",
+            "originalName": "ოსტრი",
+            "description": "Beef in a hot tomato sauce with garlic and coriander. The spiciest of the Georgian stews, and it wants a lot of bread.",
+            "category": "Khinkali & Meats",
+            "kosherType": "Meat",
+            "image": "images/Ostri_Spicy_Beef.jpg",
+            "prepTime": 25,
+            "cookTime": 100,
+            "servings": 5,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "stewing beef, cubed",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "tomatoes, grated",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "hot red pepper",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "hot green peppers, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "blue fenugreek",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Sear the beef in oil over high heat until deeply browned all over.",
+                "Add the onion and fry 10 minutes until golden.",
+                "Add the tomato paste and fry a minute, then the grated tomatoes and water to partly cover.",
+                "Cook covered 70 minutes over low heat until the beef softens.",
+                "Add both hot peppers and the blue fenugreek and cook 20 minutes uncovered until the sauce thickens.",
+                "Turn off the heat, stir in the crushed garlic and fresh coriander and cover for 5 minutes. **Meat.**"
+            ],
+            "tags": [
+                "ostri",
+                "beef",
+                "spicy",
+                "meat",
+                "tomato"
+            ]
+        },
+        {
+            "id": "kuchmachi",
+            "title": "Kuchmachi — Chicken Liver with Walnuts",
+            "originalName": "კუჭმაჭი",
+            "description": "Chicken liver sautéed with wine, pomegranate and walnuts. **The liver is broiled over open flame first** — required for kashrut, and right for the flavour anyway.",
+            "category": "Khinkali & Meats",
+            "kosherType": "Meat",
+            "image": "images/Kuchmachi_Liver.jpg",
+            "prepTime": 30,
+            "cookTime": 30,
+            "servings": 4,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "chicken livers",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "walnuts, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "dry kosher red wine",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "blue fenugreek",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pomegranate seeds to garnish",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "**Kasher the liver first:** salt it coarsely and broil on a rack over an open flame until it loses its pink colour entirely and drips. Rinse three times. This is what makes liver kosher, and it is also what gives it the broiled flavour.",
+                "Cut the broiled liver into pieces and pat dry.",
+                "Fry the onion in oil until golden, add the garlic and stir for 30 seconds.",
+                "Add the liver and toss over high heat for 5 minutes only — overcooked liver turns grainy.",
+                "Add the wine and pomegranate molasses and cook 8 minutes until the sauce reduces and glazes.",
+                "Fold in the walnuts, blue fenugreek and coriander. Garnish with pomegranate seeds. **Meat.**"
+            ],
+            "tags": [
+                "kuchmachi",
+                "liver",
+                "walnuts",
+                "meat",
+                "pomegranate"
+            ]
+        },
+        {
+            "id": "chashushuli",
+            "title": "Chashushuli — Veal Stew",
+            "originalName": "ჩაშუშული",
+            "description": "Veal with tomato and peppers, garlic and coriander. A classic home stew, served straight from the pot with shoti bread.",
+            "category": "Khinkali & Meats",
+            "kosherType": "Meat",
+            "image": "images/Chashushuli_Veal_Stew.jpg",
+            "prepTime": 25,
+            "cookTime": 95,
+            "servings": 5,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "veal, cubed",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "tomatoes, grated",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "red peppers, in strips",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "blue fenugreek",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground coriander",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "hot red pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Sear the veal in oil until browned and set aside.",
+                "Fry the onion in the same pot for 12 minutes until deeply golden.",
+                "Return the meat, add the grated tomatoes and cook covered 60 minutes.",
+                "Add the pepper strips, blue fenugreek and ground coriander.",
+                "Cook a further 25 minutes uncovered until the sauce thickens.",
+                "Turn off the heat and stir in the crushed garlic, hot pepper and fresh coriander. Cover 5 minutes. **Meat.**"
+            ],
+            "tags": [
+                "chashushuli",
+                "veal",
+                "peppers",
+                "meat",
+                "home"
+            ]
+        },
+        {
+            "id": "abkhazura",
+            "title": "Abkhazura — Georgian Meatballs",
+            "originalName": "აფხაზურა",
+            "description": "Meatballs seasoned with blue fenugreek and barberry, roasted in the oven. Plain, and they vanish off the plate.",
+            "category": "Khinkali & Meats",
+            "kosherType": "Meat",
+            "image": "images/Abkhazura_Meatballs.jpg",
+            "prepTime": 35,
+            "cookTime": 30,
+            "servings": 5,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "ground beef",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "ground lamb",
+                    "quantity": "300",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, grated and squeezed",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "blue fenugreek",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground coriander",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground dried barberry",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "hot red pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Grate the onion and squeeze it dry — wet onion breaks the meatballs apart.",
+                "Knead both meats with the onion, garlic and all the spices for 8 minutes to a sticky paste.",
+                "Fold in the fresh coriander and chill 30 minutes.",
+                "Shape into egg-sized oblong patties with wet hands.",
+                "Arrange on an oiled tray and brush with oil.",
+                "Roast at 220°C for 25–30 minutes, turning halfway. Serve with tkemali. **Meat.**"
+            ],
+            "tags": [
+                "abkhazura",
+                "meatballs",
+                "meat",
+                "oven",
+                "barberry"
+            ]
+        },
+        {
+            "id": "pkhali-ispanakhis",
+            "title": "Spinach Pkhali",
+            "originalName": "ისპანახის ფხალი",
+            "description": "Balls of spinach and walnut with garlic and vinegar, studded with pomegranate. The green pkhali that opens every table.",
+            "category": "Pkhali & Walnut Dishes",
+            "kosherType": "Parve",
+            "image": "images/Pkhali_Spinach.jpg",
+            "prepTime": 30,
+            "cookTime": 10,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "fresh spinach",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "walnuts",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "small onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "kosher red wine vinegar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "blue fenugreek",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground coriander",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "hot red pepper",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pomegranate seeds",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Blanch the spinach in boiling water for one minute only, drain and refresh in cold water.",
+                "Squeeze the spinach **very hard** by hand or in a cloth — any liquid left makes a slack pkhali.",
+                "Grind the walnuts, garlic and onion in a processor to an oily paste — the nuts must release their oil.",
+                "Add the squeezed spinach, vinegar and all the spices and pulse briefly. The texture should stay coarse, not a purée.",
+                "Fold in the fresh coriander by hand and season. Chill an hour.",
+                "Form walnut-sized balls, arrange on a plate and press a pomegranate seed into each. **Parve.**"
+            ],
+            "tags": [
+                "pkhali",
+                "spinach",
+                "walnut",
+                "parve",
+                "starter"
+            ]
+        },
+        {
+            "id": "pkhali-chkhartis",
+            "title": "Beetroot Pkhali",
+            "originalName": "ჭარხლის ფხალი",
+            "description": "The same principle with beetroot instead of spinach. Vivid pink, sweeter, and it balances the green plate.",
+            "category": "Pkhali & Walnut Dishes",
+            "kosherType": "Parve",
+            "image": "images/Pkhali_Beetroot.jpg",
+            "prepTime": 25,
+            "cookTime": 50,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "beetroots",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "walnuts",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "kosher red wine vinegar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "blue fenugreek",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground coriander",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "hot red pepper",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Boil the beetroots in their skins for 45 minutes until a knife slides in. Cool and peel by hand.",
+                "Grate the beetroot coarsely and drain in a sieve for 15 minutes — beetroot gives up a lot of liquid.",
+                "Grind the walnuts and garlic to an oily paste.",
+                "Mix the drained beetroot with the walnut paste, vinegar and spices.",
+                "Season and fold in the fresh coriander. Chill an hour.",
+                "Form into balls or serve in a bowl with chopped walnut on top. **Parve.**"
+            ],
+            "tags": [
+                "pkhali",
+                "beetroot",
+                "walnut",
+                "parve",
+                "colourful"
+            ]
+        },
+        {
+            "id": "badrijani-nigvzit",
+            "title": "Badrijani Nigvzit — Eggplant Walnut Rolls",
+            "originalName": "ბადრიჯანი ნიგვზით",
+            "description": "Fried eggplant slices rolled around a walnut and garlic paste. The Georgian dish best known outside Georgia.",
+            "category": "Pkhali & Walnut Dishes",
+            "kosherType": "Parve",
+            "image": "images/Badrijani_Nigvzit.jpg",
+            "prepTime": 35,
+            "cookTime": 20,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "large eggplants",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "walnuts",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "kosher white wine vinegar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "blue fenugreek",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground coriander",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "hot red pepper",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "cold water",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pomegranate seeds",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil for frying",
+                    "quantity": "",
+                    "unit": "as needed"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Slice the eggplants lengthwise 7mm thick. Salt and leave 30 minutes, then pat thoroughly dry.",
+                "Fry in oil until golden on both sides and drain on paper. Cool completely — a hot slice tears when rolled.",
+                "Grind the walnuts and garlic twice to a smooth paste.",
+                "Thin with cold water gradually and add the vinegar and spices, to a thick spreadable paste.",
+                "Spread a spoonful at one end of each slice and roll it up.",
+                "Arrange on a plate, scatter pomegranate seeds and coriander, and chill an hour before serving. **Parve.**"
+            ],
+            "tags": [
+                "badrijani",
+                "eggplant",
+                "walnut",
+                "parve",
+                "famous"
+            ]
+        },
+        {
+            "id": "lobio-nigvzit",
+            "title": "Lobio Nigvzit — Kidney Beans with Walnuts",
+            "originalName": "ლობიო ნიგვზით",
+            "description": "Kidney beans cooked with onion, walnut and coriander. Served in a clay pot with mchadi alongside.",
+            "category": "Pkhali & Walnut Dishes",
+            "kosherType": "Parve",
+            "image": "images/Lobio_Nigvzit.jpg",
+            "prepTime": 20,
+            "cookTime": 90,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "dried kidney beans, soaked overnight",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "walnuts",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "kosher red wine vinegar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "blue fenugreek",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground coriander",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "hot red pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Cook the soaked beans in water 60–70 minutes until tender. **Do not salt at this stage** — early salt toughens the skins.",
+                "Drain, keeping a cup of the cooking water.",
+                "Fry the onion in oil for 12 minutes until deeply golden.",
+                "Mash about a third of the beans with a fork and leave the rest whole — that gives a thick texture with bite.",
+                "Grind the walnuts and garlic to a paste and stir it in with the spices and a little cooking water.",
+                "Cook together 12 minutes, season with salt and vinegar and stir in the fresh coriander. **Parve.**"
+            ],
+            "tags": [
+                "lobio",
+                "beans",
+                "walnut",
+                "parve",
+                "comfort"
+            ]
+        },
+        {
+            "id": "ajapsandali",
+            "title": "Ajapsandali — Vegetable Stew",
+            "originalName": "აჯაფსანდალი",
+            "description": "Eggplant, peppers and tomato in one pot, with garlic and basil added at the end. The Georgian answer to ratatouille.",
+            "category": "Pkhali & Walnut Dishes",
+            "kosherType": "Parve",
+            "image": "images/Ajapsandali.jpg",
+            "prepTime": 30,
+            "cookTime": 45,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "eggplants, cubed",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "potatoes, cubed",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "red peppers, in strips",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "ripe tomatoes, peeled",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "fresh basil, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "blue fenugreek",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "hot red pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Salt the eggplant cubes and leave 20 minutes. Pat thoroughly dry.",
+                "Fry the eggplant in oil until golden and remove. Fry the potato until the edges colour and remove.",
+                "Fry the onion and peppers in the same pot for 10 minutes.",
+                "Add the peeled, chopped tomatoes and cook 15 minutes until they break down. **No water.**",
+                "Return the eggplant and potato, cover and cook 20 minutes over low heat.",
+                "Turn off the heat and add the garlic, blue fenugreek, basil and coriander. Cover 10 minutes. Serve hot or cold. **Parve.**"
+            ],
+            "tags": [
+                "ajapsandali",
+                "eggplant",
+                "vegetables",
+                "parve",
+                "summer"
+            ]
+        },
+        {
+            "id": "tkemali",
+            "title": "Tkemali — Sour Plum Sauce",
+            "originalName": "ტყემალი",
+            "description": "A sour plum sauce with garlic and pennyroyal. In Georgia it is always on the table, beside any meat.",
+            "category": "Pkhali & Walnut Dishes",
+            "kosherType": "Parve",
+            "image": "images/Tkemali_Plum_Sauce.jpg",
+            "prepTime": 20,
+            "cookTime": 50,
+            "servings": 12,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "sour green or red plums",
+                    "quantity": "1.5",
+                    "unit": "kg"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "10",
+                    "unit": ""
+                },
+                {
+                    "name": "dried ombalo (pennyroyal)",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "fresh coriander",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "fresh dill",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "hot red pepper",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground coriander",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Cook the plums in a little water for 25 minutes until they collapse.",
+                "Pass through a coarse sieve to separate the stones and skins — or stone them by hand and blend.",
+                "Return the purée to the pot and cook 20 minutes over low heat, to the consistency of a sauce.",
+                "Grind the garlic, fresh coriander and dill together to a paste.",
+                "Stir the herb paste, ombalo, hot pepper, ground coriander, sugar and salt into the purée.",
+                "Cook a further 5 minutes only — long cooking ruins the fresh herbs. Transfer to jars. **Parve.**"
+            ],
+            "tags": [
+                "tkemali",
+                "plum",
+                "sauce",
+                "parve",
+                "pantry"
+            ]
+        },
+        {
+            "id": "pkhali-kombostos",
+            "title": "Cabbage Pkhali",
+            "originalName": "კომბოსტოს ფხალი",
+            "description": "Blanched white cabbage with walnut, vinegar and coriander. The mildest of the pkhali, and it suits a crowded table.",
+            "category": "Pkhali & Walnut Dishes",
+            "kosherType": "Parve",
+            "image": "images/Pkhali_Cabbage.jpg",
+            "prepTime": 25,
+            "cookTime": 15,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "white cabbage",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "walnuts",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "small onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "kosher white wine vinegar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "blue fenugreek",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground coriander",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "hot red pepper",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Shred the cabbage and blanch in boiling water for 8 minutes until tender.",
+                "Drain, refresh in cold water and squeeze dry.",
+                "Chop the squeezed cabbage finely.",
+                "Grind the walnuts, garlic and onion to an oily paste.",
+                "Mix with the cabbage, vinegar and spices and season with salt.",
+                "Fold in the fresh coriander, chill an hour and form into balls. **Parve.**"
+            ],
+            "tags": [
+                "pkhali",
+                "cabbage",
+                "walnut",
+                "parve",
+                "mild"
+            ]
+        },
+        {
+            "id": "mkhali-mwvane-lobios",
+            "title": "Green Bean Pkhali",
+            "originalName": "მწვანე ლობიოს ფხალი",
+            "description": "Blanched green beans in walnut and garlic. Crisper than the spinach version, with a pronounced green flavour.",
+            "category": "Pkhali & Walnut Dishes",
+            "kosherType": "Parve",
+            "image": "images/Pkhali_Green_Beans.jpg",
+            "prepTime": 25,
+            "cookTime": 15,
+            "servings": 5,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "green beans",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "walnuts",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "small onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "kosher white wine vinegar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "blue fenugreek",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground coriander",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "hot red pepper",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Top and tail the beans and blanch in boiling water for 7 minutes.",
+                "Drain and plunge straight into iced water — that is what keeps the green.",
+                "Dry thoroughly and chop into 1cm lengths.",
+                "Grind the walnuts, garlic and onion to a paste.",
+                "Mix everything with the vinegar and spices and season with salt.",
+                "Fold in the fresh coriander and chill 45 minutes. **Parve.**"
+            ],
+            "tags": [
+                "pkhali",
+                "green beans",
+                "walnut",
+                "parve",
+                "crisp"
+            ]
+        },
+        {
+            "id": "jonjoli",
+            "title": "Jonjoli — Pickled Bladdernut Blossoms",
+            "originalName": "ჯონჯოლი",
+            "description": "Bladdernut tree buds, salt-cured and dressed with oil and onion. Sour and crisp, with no real equivalent.",
+            "category": "Pkhali & Walnut Dishes",
+            "kosherType": "Parve",
+            "image": "images/Jonjoli_Pickled_Blossoms.jpg",
+            "prepTime": 30,
+            "cookTime": 0,
+            "servings": 10,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "jonjoli buds (or large capers)",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1",
+                    "unit": "litre"
+                },
+                {
+                    "name": "onion, thinly sliced",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "kosher white wine vinegar",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Rinse the buds well and strip off any woody stems.",
+                "Dissolve the salt in the water to make a brine and steep the buds for **three days** at room temperature, covered and submerged.",
+                "Drain, rinse in cold water and squeeze lightly — they should stay crisp.",
+                "Toss with the sliced onion, oil and vinegar.",
+                "Chill two hours.",
+                "Serve with fresh coriander as part of the starter plate. **Parve.**"
+            ],
+            "tags": [
+                "jonjoli",
+                "pickled",
+                "parve",
+                "starter",
+                "unusual"
+            ]
+        },
+        {
+            "id": "nadughi-parve",
+            "title": "Nigvzis Satsebeli — Walnut Sauce",
+            "originalName": "ნიგვზის საწებელი",
+            "description": "A walnut, garlic and vinegar sauce that goes on everything: vegetables, fish, potatoes. The base of half this cuisine.",
+            "category": "Pkhali & Walnut Dishes",
+            "kosherType": "Parve",
+            "image": "images/Walnut_Garlic_Sauce.jpg",
+            "prepTime": 15,
+            "cookTime": 0,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "walnuts",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "kosher white wine vinegar",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "cold water",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "blue fenugreek",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground coriander",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "hot red pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground cloves",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Grind the walnuts and garlic **twice** in a mill or processor — the second pass is what releases the oil.",
+                "Add all the dry spices and grind again to combine.",
+                "Add the cold water gradually, a spoon at a time, stirring — to the consistency of cream.",
+                "Add the vinegar and salt and taste; it should be clearly sour.",
+                "Fold in the fresh coriander.",
+                "Keeps three days refrigerated; it stiffens when cold, so loosen with a little water before serving. **Parve.**"
+            ],
+            "tags": [
+                "sauce",
+                "walnut",
+                "garlic",
+                "parve",
+                "base"
+            ]
+        },
+        {
+            "id": "kharcho",
+            "title": "Kharcho — Beef and Walnut Soup",
+            "originalName": "ხარჩო",
+            "description": "A thick beef soup with rice, walnuts and sour tklapi. One of the richest soups in the Caucasus.",
+            "category": "Soups & Stews",
+            "kosherType": "Meat",
+            "image": "images/Kharcho_Soup.jpg",
+            "prepTime": 30,
+            "cookTime": 120,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "beef on the bone",
+                    "quantity": "900",
+                    "unit": "g"
+                },
+                {
+                    "name": "short-grain rice",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground walnuts",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "tklapi or plum concentrate",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "blue fenugreek",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground coriander",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "hot red pepper",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Cook the beef in 2.5 litres of water for 90 minutes, skimming at the start. Lift out, bone it and return the meat.",
+                "Fry the onion in oil for 12 minutes until deeply golden and add to the pot.",
+                "Add the rice and cook 15 minutes.",
+                "Dissolve the tklapi in a little hot broth and stir it in.",
+                "Add the ground walnuts and cook 15 minutes over low heat — the soup will thicken markedly.",
+                "Turn off the heat and add the garlic, blue fenugreek, ground and fresh coriander. Cover 10 minutes. **Meat.**"
+            ],
+            "tags": [
+                "kharcho",
+                "beef",
+                "walnut",
+                "meat",
+                "thick"
+            ]
+        },
+        {
+            "id": "chikhirtma",
+            "title": "Chikhirtma — Chicken Soup with Egg and Lemon",
+            "originalName": "ჩიხირთმა",
+            "description": "A chicken soup thickened with yolks and vinegar, no vegetables and not a drop of dairy. The soup for the morning after a long night.",
+            "category": "Soups & Stews",
+            "kosherType": "Meat",
+            "image": "images/Chikhirtma_Soup.jpg",
+            "prepTime": 20,
+            "cookTime": 70,
+            "servings": 5,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "whole chicken",
+                    "quantity": "1.5",
+                    "unit": "kg"
+                },
+                {
+                    "name": "onions, finely chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "flour",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "egg yolks",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "kosher white wine vinegar",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground coriander",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "imeretian saffron or turmeric",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Cook the chicken in 2 litres of water for 50 minutes. Strain the broth and pull the meat from the bone.",
+                "Fry the onion in oil until soft, add the flour and stir for a minute.",
+                "Add the hot broth gradually while stirring, to avoid lumps. Cook 10 minutes.",
+                "Return the chicken meat and season with ground coriander and saffron.",
+                "Whisk the yolks with the vinegar in a bowl. **Take the pot off the heat** and pour a ladle of hot broth into the yolks while whisking — temper them.",
+                "Return the mixture to the pot in a thin stream, stirring. **Do not boil** — the yolks will curdle. Stir in the fresh coriander. **Meat.**"
+            ],
+            "tags": [
+                "chikhirtma",
+                "chicken",
+                "egg",
+                "meat",
+                "comfort"
+            ]
+        },
+        {
+            "id": "khashi",
+            "title": "Khashi — Beef Trotter Soup",
+            "originalName": "ხაში",
+            "description": "A white trotter soup simmered overnight and eaten at six in the morning with garlic and radish. A dish that asks for faith.",
+            "category": "Soups & Stews",
+            "kosherType": "Meat",
+            "image": "images/Khashi_Tripe_Soup.jpg",
+            "prepTime": 60,
+            "cookTime": 420,
+            "servings": 6,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "beef trotters, cut",
+                    "quantity": "2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "cleaned beef tripe",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "12",
+                    "unit": ""
+                },
+                {
+                    "name": "cold water for soaking",
+                    "quantity": "",
+                    "unit": "as needed"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                },
+                {
+                    "name": "white radish to serve",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "dry shoti bread",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "kosher white wine vinegar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Soak the trotters and tripe in cold water for **8 hours**, changing the water three or four times. That is what gives khashi its white colour.",
+                "Scrape and clean thoroughly. Blanch 10 minutes in boiling water and discard that water.",
+                "Put in a large pot with fresh water to cover and bring to a slow simmer. Skim constantly for the first hour.",
+                "Cook **6–7 hours** on the lowest possible heat, until the meat falls from the bone and the broth is thick and gelatinous. **No salt at all while it cooks.**",
+                "Lift out the trotters, pull the meat and slice the tripe into strips. Return both to the pot.",
+                "Serve with a bowl of crushed garlic in vinegar, salt on the side, radish and dry bread. Each person seasons their own. **Meat.**"
+            ],
+            "tags": [
+                "khashi",
+                "trotter",
+                "overnight",
+                "meat",
+                "tradition"
+            ]
+        },
+        {
+            "id": "bozbashi",
+            "title": "Bozbashi — Lamb and Chickpea Soup",
+            "originalName": "ბოზბაში",
+            "description": "A clear lamb soup with chickpeas, potato and dried plums. A winter soup, rich and plain.",
+            "category": "Soups & Stews",
+            "kosherType": "Meat",
+            "image": "images/Bozbashi_Lamb_Soup.jpg",
+            "prepTime": 25,
+            "cookTime": 120,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "lamb neck on the bone",
+                    "quantity": "900",
+                    "unit": "g"
+                },
+                {
+                    "name": "dried chickpeas, soaked overnight",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "potatoes, large dice",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "dried plums",
+                    "quantity": "10",
+                    "unit": ""
+                },
+                {
+                    "name": "tomatoes, grated",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "imeretian saffron or turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "dried mint",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Put the lamb into 2.5 litres of cold water, bring to a slow simmer and skim well — that is what keeps the broth clear.",
+                "Add the soaked chickpeas and cook covered 75 minutes.",
+                "Add the onion, grated tomato and saffron and cook 20 minutes.",
+                "Add the potatoes and dried plums and cook a further 25 minutes.",
+                "Season with salt, pepper and dried mint.",
+                "Stir in the fresh coriander before serving. **Meat.**"
+            ],
+            "tags": [
+                "bozbashi",
+                "lamb",
+                "chickpeas",
+                "meat",
+                "winter"
+            ]
+        },
+        {
+            "id": "lobios-supi",
+            "title": "Georgian Bean Soup",
+            "originalName": "ლობიოს სუპი",
+            "description": "A kidney bean soup with fried onion, garlic and coriander. Entirely parve, and as filling as a main course.",
+            "category": "Soups & Stews",
+            "kosherType": "Parve",
+            "image": "images/Lobio_Soup.jpg",
+            "prepTime": 20,
+            "cookTime": 90,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "dried kidney beans, soaked overnight",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "carrots, diced",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "tomatoes, grated",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "blue fenugreek",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground coriander",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "hot red pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Cook the soaked beans in 2 litres of water for 60 minutes. No salt at this stage.",
+                "Fry the onion in oil for 15 minutes until deeply brown — that is the depth of the whole soup.",
+                "Add the onion, carrot and grated tomato to the pot and cook 25 minutes.",
+                "Mash about a quarter of the beans in the pot to thicken it.",
+                "Season with salt, pepper, blue fenugreek and ground coriander.",
+                "Turn off the heat and add the crushed garlic and fresh coriander. **Parve.**"
+            ],
+            "tags": [
+                "soup",
+                "beans",
+                "parve",
+                "filling",
+                "winter"
+            ]
+        },
+        {
+            "id": "matsvnis-supi",
+            "title": "Matsoni Soup — Yogurt Soup",
+            "originalName": "მაწვნის სუპი",
+            "description": "A hot yogurt soup with rice and mint. Dairy, and it only works if you never let it boil.",
+            "category": "Soups & Stews",
+            "kosherType": "Dairy",
+            "image": "images/Matsoni_Soup.jpg",
+            "prepTime": 20,
+            "cookTime": 30,
+            "servings": 5,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "matsoni or plain yogurt",
+                    "quantity": "1",
+                    "unit": "litre"
+                },
+                {
+                    "name": "short-grain rice",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "egg",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "flour",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "water",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "onion, finely chopped",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "butter",
+                    "quantity": "40",
+                    "unit": "g"
+                },
+                {
+                    "name": "dried mint",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Cook the rice in 2 cups of water for 15 minutes until tender.",
+                "Whisk the yogurt with the egg and flour **until completely smooth** — the egg and flour are what stop the yogurt splitting in the heat.",
+                "Pour the yogurt mixture into the rice pot in a thin stream, stirring constantly in one direction.",
+                "Heat over very low heat, stirring without stopping, for 12 minutes. **It must not boil** — boiling will split it.",
+                "Fry the onion in butter until soft and stir in the dried mint.",
+                "Spoon the onion butter over each bowl and add coriander. **A dairy recipe.**"
+            ],
+            "tags": [
+                "soup",
+                "yogurt",
+                "dairy",
+                "mint",
+                "delicate"
+            ]
+        },
+        {
+            "id": "kupati-parve",
+            "title": "Mushroom Chashushuli",
+            "originalName": "სოკოს ჩაშუშული",
+            "description": "Mushrooms in tomato and garlic, built on the same pattern as the meat stew. Parve, and it comes out when there are meatballs.",
+            "category": "Soups & Stews",
+            "kosherType": "Parve",
+            "image": "images/Mushroom_Chashushuli.jpg",
+            "prepTime": 20,
+            "cookTime": 40,
+            "servings": 5,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "mixed mushrooms",
+                    "quantity": "900",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "tomatoes, grated",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "red pepper, in strips",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "blue fenugreek",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground coriander",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "hot red pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Quarter the mushrooms and fry in oil over high heat for 8 minutes, **with no salt** — early salt draws out water and they stew instead of browning.",
+                "Remove the mushrooms and fry the onion in the same pot for 12 minutes until deeply golden.",
+                "Add the red pepper and grated tomatoes and cook 12 minutes.",
+                "Return the mushrooms, add the blue fenugreek and ground coriander and cook 12 minutes uncovered.",
+                "Season with salt and hot pepper.",
+                "Turn off the heat and add the garlic and fresh coriander. Cover 5 minutes. **Parve.**"
+            ],
+            "tags": [
+                "mushrooms",
+                "stew",
+                "parve",
+                "tomato",
+                "vegetarian"
+            ]
+        },
+        {
+            "id": "kotmis-supi",
+            "title": "Chicken and Walnut Soup",
+            "originalName": "ქათმის სუპი ნიგვზით",
+            "description": "Chicken broth thickened with ground walnuts, no cream and no flour. Rich, and it stays meat.",
+            "category": "Soups & Stews",
+            "kosherType": "Meat",
+            "image": "images/Chicken_Walnut_Soup.jpg",
+            "prepTime": 25,
+            "cookTime": 80,
+            "servings": 5,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "chicken legs",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "ground walnuts",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "blue fenugreek",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground coriander",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "imeretian saffron or turmeric",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "kosher white wine vinegar",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Cook the chicken legs in 2 litres of water for 45 minutes. Lift out, bone them and return the meat.",
+                "Fry the onion in oil until golden and add to the pot.",
+                "Slacken the ground walnuts with a cup of hot broth to a smooth paste.",
+                "Pour the walnut paste into the pot in a thin stream, stirring.",
+                "Cook 20 minutes over low heat — **do not boil**, or the walnut oil separates.",
+                "Season, add the vinegar, garlic and fresh coriander. **Meat** — there is no cream here."
+            ],
+            "tags": [
+                "soup",
+                "chicken",
+                "walnut",
+                "meat",
+                "rich"
+            ]
+        },
+        {
+            "id": "shechamandi",
+            "title": "Shechamandi — Flour and Tarragon Soup",
+            "originalName": "შეჩამანდი",
+            "description": "A rustic soup of toasted flour, tarragon and garlic. Five ingredients, and far more comforting than its parts.",
+            "category": "Soups & Stews",
+            "kosherType": "Parve",
+            "image": "images/Shechamandi_Soup.jpg",
+            "prepTime": 15,
+            "cookTime": 35,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, finely chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "fresh tarragon, chopped",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "boiling water",
+                    "quantity": "1.2",
+                    "unit": "litres"
+                },
+                {
+                    "name": "kosher white wine vinegar",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Fry the onion in oil over low heat for 15 minutes until sweet and light brown.",
+                "Add the flour and fry 4 minutes, stirring constantly, until it smells nutty. **This is the step that decides it**; under-toasted flour tastes raw.",
+                "Pour in the boiling water gradually while whisking, to avoid lumps.",
+                "Cook 15 minutes over low heat until slightly thickened.",
+                "Season with salt, pepper and vinegar.",
+                "Turn off the heat, add the crushed garlic and fresh tarragon and cover 5 minutes. **Parve.**"
+            ],
+            "tags": [
+                "shechamandi",
+                "tarragon",
+                "parve",
+                "rustic",
+                "quick"
+            ]
+        },
+        {
+            "id": "kalmakhi-nigvzit",
+            "title": "Trout in Walnut Sauce",
+            "originalName": "კალმახი ნიგვზით",
+            "description": "Mountain trout baked and dressed in walnut and pomegranate sauce. Fin-and-scale fish — the dish is parve, and goes to either table.",
+            "category": "Soups & Stews",
+            "kosherType": "Parve",
+            "image": "images/Trout_Walnut.jpg",
+            "prepTime": 25,
+            "cookTime": 30,
+            "servings": 4,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "whole trout, cleaned",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "ground walnuts",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "onion, finely chopped",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "kosher white wine vinegar",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "blue fenugreek",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground coriander",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "hot water",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Salt the trout inside and out and leave 15 minutes. Pat dry.",
+                "Bake at 200°C for about 20 minutes, until the flesh lifts easily from the bone.",
+                "Meanwhile fry the onion in olive oil until soft and add the garlic.",
+                "Add the ground walnuts and thin with hot water to a thick sauce. Cook 8 minutes over low heat without boiling.",
+                "Stir in the pomegranate molasses, vinegar, blue fenugreek and ground coriander. Season.",
+                "Pour the sauce over the hot fish and scatter fresh coriander. **Parve** — fin-and-scale fish only."
+            ],
+            "tags": [
+                "trout",
+                "fish",
+                "walnut",
+                "parve",
+                "mountain"
+            ]
+        },
+        {
+            "id": "churchkhela",
+            "title": "Churchkhela",
+            "originalName": "ჩურჩხელა",
+            "description": "Walnuts on a string, dipped again and again in thickened grape juice. The \"Georgian sausage\", hung to dry for weeks.",
+            "category": "Sweets & Drinks",
+            "kosherType": "Parve",
+            "image": "images/Churchkhela.jpg",
+            "prepTime": 60,
+            "cookTime": 40,
+            "servings": 10,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "whole walnuts",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "natural grape juice",
+                    "quantity": "2",
+                    "unit": "litres"
+                },
+                {
+                    "name": "white flour",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "strong cotton thread",
+                    "quantity": "",
+                    "unit": "as needed"
+                }
+            ],
+            "instructions": [
+                "Thread the walnuts onto 30cm lengths of cotton thread, tying a loop at the top.",
+                "Heat the grape juice and reduce it by a third — about 25 minutes.",
+                "Whisk the flour into a little cold juice until lump-free, then pour it into the simmering pot in a thin stream, stirring constantly.",
+                "Cook 15 minutes, stirring, to the consistency of a thick sauce that coats a spoon. This is the tatara.",
+                "Dip the walnut strings into the hot tatara, lift and hang to dry for an hour. **Repeat the dipping 4–5 times** — each coat adds thickness.",
+                "Hang somewhere airy and dark for **at least two weeks**, until the casing is dry to the touch. **Parve.**"
+            ],
+            "tags": [
+                "churchkhela",
+                "grape",
+                "walnut",
+                "parve",
+                "traditional"
+            ]
+        },
+        {
+            "id": "gozinaki",
+            "title": "Gozinaki — Honey Walnut Brittle",
+            "originalName": "გოზინაყი",
+            "description": "Toasted walnuts in caramelised honey, cut into diamonds. Two ingredients, and timing that does not forgive.",
+            "category": "Sweets & Drinks",
+            "kosherType": "Parve",
+            "image": "images/Gozinaki.jpg",
+            "prepTime": 20,
+            "cookTime": 25,
+            "servings": 12,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "walnuts, coarsely chopped",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "honey",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "oil for greasing",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Toast the walnuts at 170°C for about 8 minutes until fragrant. Cool.",
+                "Heat the honey and sugar in a heavy pot over medium heat to a boil, then cook 6 minutes until the honey darkens slightly and smells of caramel.",
+                "Add the walnuts and stir without stopping for **8–10 minutes**. The mixture will start pulling away from the sides — that is the signal.",
+                "Tip out immediately onto an oiled surface or baking paper. **Do not hesitate** — the caramel sets in seconds.",
+                "Flatten to 1cm with an oiled spoon or a wet rolling pin.",
+                "Cut into diamonds **while still hot** — cold it shatters instead of cutting. Cool completely. **Parve.**"
+            ],
+            "tags": [
+                "gozinaki",
+                "honey",
+                "walnut",
+                "parve",
+                "new year"
+            ]
+        },
+        {
+            "id": "pelamushi",
+            "title": "Pelamushi — Grape Pudding",
+            "originalName": "ფელამუში",
+            "description": "A purple pudding of grape juice and cornmeal, studded with walnuts. The churchkhela tatara, served in a bowl.",
+            "category": "Sweets & Drinks",
+            "kosherType": "Parve",
+            "image": "images/Pelamushi.jpg",
+            "prepTime": 15,
+            "cookTime": 35,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "natural red grape juice",
+                    "quantity": "1.5",
+                    "unit": "litres"
+                },
+                {
+                    "name": "fine cornmeal",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "walnut halves",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "",
+                    "unit": "a pinch"
+                }
+            ],
+            "instructions": [
+                "Heat a litre of the grape juice with the sugar to a gentle boil.",
+                "Whisk the cornmeal into the remaining **cold** half litre until there are no lumps at all.",
+                "Pour the cold mixture into the simmering pot in a thin stream, whisking constantly.",
+                "Cook 20–25 minutes over low heat, stirring almost continuously — it catches on the base easily.",
+                "It is ready when it coats a spoon and holds a trail as the spoon passes through.",
+                "Pour into wetted bowls, chill 3 hours and decorate with walnuts and cinnamon. **Parve.**"
+            ],
+            "tags": [
+                "pelamushi",
+                "grape",
+                "pudding",
+                "parve",
+                "autumn"
+            ]
+        },
+        {
+            "id": "tklapi",
+            "title": "Tklapi — Sour Plum Leather",
+            "originalName": "ტყლაპი",
+            "description": "Sour plum purée dried into a thin sheet. Eaten as a sweet, and used as the souring agent in kharcho.",
+            "category": "Sweets & Drinks",
+            "kosherType": "Parve",
+            "image": "images/Tklapi_Fruit_Leather.jpg",
+            "prepTime": 30,
+            "cookTime": 40,
+            "servings": 10,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "sour plums",
+                    "quantity": "2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar (optional)",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "oil for greasing",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Cook the plums with the water for 25 minutes until they collapse entirely.",
+                "Pass through a coarse sieve to remove stones and skins.",
+                "Return the purée to the heat and cook 15 minutes until very thick — like a stiff jam.",
+                "Spread in a 3mm layer on oiled baking paper.",
+                "Dry in the sun for 2–3 days, or in a 60°C oven with the door ajar for about 6 hours.",
+                "It is ready when the sheet is pliable and not sticky. Roll and store in paper. **Parve.**"
+            ],
+            "tags": [
+                "tklapi",
+                "plum",
+                "dried",
+                "parve",
+                "pantry"
+            ]
+        },
+        {
+            "id": "nazuki",
+            "title": "Nazuki — Spiced Sweet Bread",
+            "originalName": "ნაზუქი",
+            "description": "A sweet bread with clove, cinnamon and raisins, traditional to the town of Surami. Sold hot at the roadside.",
+            "category": "Sweets & Drinks",
+            "kosherType": "Dairy",
+            "image": "images/Nazuki_Spiced_Bread.jpg",
+            "prepTime": 130,
+            "cookTime": 30,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "warm milk",
+                    "quantity": "1.25",
+                    "unit": "cups"
+                },
+                {
+                    "name": "dried yeast",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "soft butter",
+                    "quantity": "150",
+                    "unit": "g"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "raisins",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cloves",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vanilla",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "egg yolk for brushing",
+                    "quantity": "1",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Mix the yeast, a spoon of the sugar and the warm milk and wait 10 minutes until foamy.",
+                "Add the flour, remaining sugar, eggs, soft butter, salt and all the spices and knead 12 minutes to a smooth dough.",
+                "Fold in the raisins and prove an hour and a half.",
+                "Divide in two, flatten each into a 2cm loaf and transfer to a tray.",
+                "Prove again 30 minutes and brush with yolk.",
+                "Bake at 190°C for about 28 minutes until deeply golden. **A dairy recipe.**"
+            ],
+            "tags": [
+                "nazuki",
+                "sweet",
+                "dairy",
+                "clove",
+                "surami"
+            ]
+        },
+        {
+            "id": "matsoni",
+            "title": "Matsoni — Georgian Yogurt",
+            "originalName": "მაწონი",
+            "description": "Home yogurt with a Georgian culture, thick and tart. The base of half this cuisine, and eaten on its own with honey.",
+            "category": "Sweets & Drinks",
+            "kosherType": "Dairy",
+            "image": "images/Matsoni_Yogurt.jpg",
+            "prepTime": 20,
+            "cookTime": 15,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "whole milk",
+                    "quantity": "2",
+                    "unit": "litres"
+                },
+                {
+                    "name": "existing matsoni as starter",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "honey to serve",
+                    "quantity": "",
+                    "unit": "to taste"
+                },
+                {
+                    "name": "chopped walnuts to serve",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Heat the milk to a gentle boil and take it off the heat at once.",
+                "Cool to **43–45°C** — warm to the touch but not scalding. Hotter than that kills the culture.",
+                "Slacken the existing matsoni in a cup of the warm milk until fully dissolved, then stir it gently back into the pot.",
+                "Pour into jars, cover and wrap in a thick towel.",
+                "Leave somewhere warm for **8–10 hours** without moving it. Movement stops it setting.",
+                "Refrigerate 4 hours. Serve with honey and walnuts. **A dairy recipe.**"
+            ],
+            "tags": [
+                "matsoni",
+                "yogurt",
+                "dairy",
+                "homemade",
+                "base"
+            ]
+        },
+        {
+            "id": "kada",
+            "title": "Kada — Layered Sweet Pastry",
+            "originalName": "ქადა",
+            "description": "A rolled pastry filled with toasted flour and sugar. Made parve with oil, so it can follow meat.",
+            "category": "Sweets & Drinks",
+            "kosherType": "Parve",
+            "image": "images/Kada_Layered_Pastry.jpg",
+            "prepTime": 90,
+            "cookTime": 35,
+            "servings": 10,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour for the dough",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "warm water",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dried yeast",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "white flour for the filling",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "oil for the filling",
+                    "quantity": "2/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "vanilla",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Make a yeast dough with water and oil — **no butter** — and prove an hour.",
+                "For the filling: heat the oil in a pan and add the flour gradually. Fry 10 minutes, stirring, until light brown and nutty.",
+                "Off the heat, cool slightly and stir in the sugar, vanilla and cinnamon. It should be crumbly.",
+                "Roll the dough very thin, scatter the filling evenly and roll into a tight log.",
+                "Cut the log into 3cm slices and flatten each with your palm.",
+                "Bake at 190°C for 30–35 minutes until golden. **Parve.**"
+            ],
+            "tags": [
+                "kada",
+                "layered",
+                "parve",
+                "sweet",
+                "pastry"
+            ]
+        },
+        {
+            "id": "chacha-limonati",
+            "title": "Limonati — Georgian Tarragon Lemonade",
+            "originalName": "ლიმონათი",
+            "description": "A bright green tarragon drink, the favourite soft drink in Georgia. Served very cold.",
+            "category": "Sweets & Drinks",
+            "kosherType": "Parve",
+            "image": "images/Georgian_Limonati.jpg",
+            "prepTime": 25,
+            "cookTime": 15,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "fresh tarragon",
+                    "quantity": "3",
+                    "unit": "bunches"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1.25",
+                    "unit": "cups"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1.5",
+                    "unit": "litres"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sparkling water",
+                    "quantity": "1",
+                    "unit": "litre"
+                },
+                {
+                    "name": "ice",
+                    "quantity": "",
+                    "unit": "as needed"
+                }
+            ],
+            "instructions": [
+                "Boil half a litre of water with the sugar until fully dissolved. Take off the heat.",
+                "Add the whole tarragon — stems and leaves — to the hot syrup and cover.",
+                "Steep **at least two hours**, until the syrup is green and fragrant.",
+                "Strain, pressing the tarragon to extract everything.",
+                "Add the lemon juice and the rest of the water and chill 3 hours.",
+                "Dilute with sparkling water two to one and serve over plenty of ice. **Parve.**"
+            ],
+            "tags": [
+                "limonati",
+                "tarragon",
+                "drink",
+                "parve",
+                "summer"
+            ]
+        },
+        {
+            "id": "komshis-muraba",
+            "title": "Komshis Muraba — Quince Preserve",
+            "originalName": "კომშის მურაბა",
+            "description": "Quince wedges in syrup that turn amber-red over slow cooking. Served by the spoonful beside tea.",
+            "category": "Sweets & Drinks",
+            "kosherType": "Parve",
+            "image": "images/Quince_Preserve.jpg",
+            "prepTime": 30,
+            "cookTime": 90,
+            "servings": 12,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "quinces",
+                    "quantity": "1.5",
+                    "unit": "kg"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1.2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "water",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "whole walnuts",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cardamom",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Peel the quinces and keep the peel and cores — they are full of pectin.",
+                "Cut into wedges and hold in lemon water so they do not darken.",
+                "Boil the peel and cores in 3 cups of water for 20 minutes, then strain and discard them. That liquid is the base.",
+                "Add the sugar to the liquid and bring to the boil, then add the quince wedges.",
+                "Cook **60 minutes over very low heat without stirring much** — the wedges must stay whole, and the colour turns amber-red gradually.",
+                "Add the walnuts, cardamom and lemon juice and cook 10 minutes. Transfer to sterilised jars. **Parve.**"
+            ],
+            "tags": [
+                "preserve",
+                "quince",
+                "parve",
+                "tea",
+                "pantry"
+            ]
+        },
+        {
+            "id": "chiris-tkbili",
+            "title": "Dried Fruit Compote",
+            "originalName": "ჩირის კომპოტი",
+            "description": "Apricots, prunes and dried pears steeped in a light syrup. Served cold in summer and hot in winter.",
+            "category": "Sweets & Drinks",
+            "kosherType": "Parve",
+            "image": "images/Dried_Fruit_Compote.jpg",
+            "prepTime": 15,
+            "cookTime": 35,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "dried apricots",
+                    "quantity": "200",
+                    "unit": "g"
+                },
+                {
+                    "name": "prunes",
+                    "quantity": "200",
+                    "unit": "g"
+                },
+                {
+                    "name": "dried pears",
+                    "quantity": "150",
+                    "unit": "g"
+                },
+                {
+                    "name": "raisins",
+                    "quantity": "100",
+                    "unit": "g"
+                },
+                {
+                    "name": "water",
+                    "quantity": "2",
+                    "unit": "litres"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cinnamon stick",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "whole cloves",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Rinse all the dried fruit in warm water.",
+                "Soak the pears and apricots in hot water for 20 minutes — they are the firmest.",
+                "Bring 2 litres of water to the boil with the sugar, cinnamon stick and cloves.",
+                "Add the pears and apricots and cook 20 minutes.",
+                "Add the prunes and raisins and cook a further 10 minutes — they are softer and fall apart if cooked from the start.",
+                "Add the lemon juice and cool. Fish out the cloves before serving. **Parve.**"
+            ],
+            "tags": [
+                "compote",
+                "dried fruit",
+                "parve",
+                "drink",
+                "winter"
+            ]
+        }
+    ]
+}
